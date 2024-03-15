@@ -1,0 +1,3 @@
+OPENAI_URL = "https://api.openai.com/v1/embeddings"
+OPENAI_TOKEN = "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"
+OPENAI_MODEL = "text-embedding-ada-002"
